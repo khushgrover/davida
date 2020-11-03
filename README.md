@@ -2,4 +2,4 @@
 
 A basic website build in HTML5, CSS3, and Javascript.
 
-Published at 
+Published at https://vinayakindustries.consulting/.
